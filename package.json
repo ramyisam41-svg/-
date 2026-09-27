@@ -1,0 +1,13 @@
+{
+  "name": "malak-altamia-backend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "cors": "^2.8.5",
+    "better-sqlite3": "^12.4.1"
+  }
+}
